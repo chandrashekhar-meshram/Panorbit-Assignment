@@ -15,12 +15,4 @@ const AllUsers = () => {
   );
 };
 
-
-// const AllUsers = () => {
-
-//   return (
-//     <h1>AllUsers.js</h1>
-//   );
-// };
-
 export default AllUsers;
