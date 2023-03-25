@@ -1,0 +1,18 @@
+.allusers {
+  position: relative;
+}
+
+.container {
+  width: 600px;
+  height: 600px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin: 4rem auto;
+  border-radius: 20px;
+}
+
+.users h4 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: grey;
+}
